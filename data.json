@@ -1,13 +1,13 @@
 {
-  iterations: [
+  "iterations": [
     {
-      number: 45,
-      startDate: "07-18-2018",
-      endDate: "07-21-2018"
+      "number": 45,
+      "startDate": "07-18-2018",
+      "endDate": "07-21-2018"
     },{
-      number: 46,
-      startDate: "07-22-2018",
-      endDate: "07-31-2018"
+      "number": 46,
+      "startDate": "07-22-2018",
+      "endDate": "07-31-2018"
     }
   ]
 }
