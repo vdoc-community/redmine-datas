@@ -2,8 +2,8 @@
   iterations: [
     {
       number: 45,
-      start-date: 111111,
-      end-date: 22222
+      startDate: 111111,
+      endDate: 22222
     }
   ]
 }
