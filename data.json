@@ -43,11 +43,15 @@
     },{
       "number": 50,
       "startDate": "10-13-2018",
-      "endDate": "11-02-2018"
+      "endDate": "10-31-2018"
     },{
       "number": 51,
       "startDate": "11-05-2018",
       "endDate": "11-23-2018"
+    },{
+      "number": 52,
+      "startDate": "11-26-2018",
+      "endDate": "12-14-2018"
     }
   ]
 }
